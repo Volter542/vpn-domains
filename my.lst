@@ -22,13 +22,11 @@ amazfitwatchfaces.com
 amplitude.com
 analog.com
 andrevi.ch
-android.clients.google.com
 ansys.com
 anthropic.com
 anthropic.qualtrics.com
 anydesk.com
 api.jetbrains.ai
-api.themoviedb.org
 arc.msn.com
 arc.net
 arduino.cc
@@ -75,7 +73,6 @@ chaos.com
 chat.com
 chat.openai.com.cdn.cloudflare.net
 chatgpt.com
-checkoutshopper-live.adyen.com
 cisco.com
 cisecurity.org
 citrix.com
@@ -121,7 +118,6 @@ disneyplus.com
 docs.liquibase.com
 document360.com
 document360.io
-download3.omnissa.com
 downloads.intercomcdn.com
 ducati.com
 dyson.com
@@ -177,7 +173,9 @@ glpals.com
 gofund.me
 gofundme.com
 gonift.com
+google.com
 googleapis.com
+googleusercontent.com
 gpsonextra.net
 gpu-monkey.com
 gql.twitch.tv
@@ -185,9 +183,9 @@ grafana.com
 graylog.org
 grizzlysms.com
 grok.com
-grok.x.com
 groq.com
 groupon.com
+gstatic.com
 guest.chekin.com
 guilded.gg
 gvt1.com
@@ -200,6 +198,7 @@ hc-ping.com
 hchk.io
 healthline.com
 herokucdn.com
+hetzner.com
 hollisterco.com
 home-connect.com
 home.by.me
@@ -215,10 +214,8 @@ iedb.org
 iedem.tv
 iherb.com
 ikea.com
-image.tmdb.org
 imgur.com
 indeed.com
-instagram.com
 install.launcher.omniverse.nvidia.com
 intel.com
 intel.de
@@ -249,7 +246,6 @@ lgthinq.com
 lidarr.audio
 lifehacker.com
 lightning.ai
-lookerstudio.google.com
 lyst.com
 mailerlite.com
 mailinator.com
@@ -290,7 +286,6 @@ netflixtechblog.com
 netlify.com
 new.abb.com
 newark.com
-news.google.com
 news.inbox.lv
 newsroom.porsche.com
 nfl.com
@@ -348,7 +343,6 @@ pingdom.com
 pkgs.tailscale.com
 planespotters.net
 platform.activestate.com
-play.google.com
 plugshare.com
 pornhub.com
 pornhub.org
@@ -356,7 +350,6 @@ posthog.com
 premierleague.com
 primark.com
 primevideo.com
-proactivebackend-pa.googleapis.com
 production-openaicom-storage.azureedge.net
 profitwell.com
 prowlarr.com
@@ -435,9 +428,7 @@ squadbustersgame.com
 squareup.com
 strava.com
 streamable.com
-suggestqueries.google.com
 supercell.com
-support.anydesk.com
 support.xerox.com
 surveymonkey.com
 swagger.io
@@ -518,7 +509,6 @@ windsurf.com
 wise.com
 wpengine.com
 wunderground.com
-www3.corsair.com
 x-minus.pro
 x.ai
 x.com
@@ -537,12 +527,3 @@ youtrack.cloud
 zapier.com
 zedge.net
 zerossl.com
-hetzner.com
-gemini.google.com
-aistudio.google.com
-accounts.google.com
-apis.google.com
-www.google.com
-gstatic.com
-googleusercontent.com
-generativelanguage.googleapis.com
